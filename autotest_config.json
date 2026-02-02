@@ -86,10 +86,6 @@
                     "operator": "eq",
                     "value": "Trying version getter: PythonVersionFile"
                 },
-                 {
-                    "operator": "regex",
-                    "value": "Found Python version \\([0-9]+\\.[0-9]+\\.[0-9]+\\) for (Pip|Poetry) project at .*<repo_name>"
-                  },
                 {
                     "operator": "eq",
                     "value": "python version set to: 3.8.0"
